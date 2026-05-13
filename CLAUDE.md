@@ -412,6 +412,10 @@ welda-cgm-portfolio/
     [ ] Population vs Personalized 비교
     [ ] SHAP 전역 + 개별 해석
     [ ] 서비스 적용 형태 (SHAP → 코칭 메시지)
+
+          
+
+          
 ```
 
 ### Day 3 — 4/19 일 ~ 4/20 월: 세그멘테이션 + 문서 + 제출
